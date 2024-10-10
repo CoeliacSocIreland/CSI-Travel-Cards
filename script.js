@@ -46,7 +46,7 @@ const translations = {
     fr: {
         title: "Avis important",
         intro: "Je suis atteint(e) de la maladie cœliaque (intolérance au gluten).",
-        cannotEat: "Je ne peux pas manger d’aliments qui contiennent du gluten...",
+        cannotEat: "Je ne peux pas manger d'aliments qui contiennant du gluten, que l'on trouve dans le blé, le seigle, l'orge et l'avoine. Mon repas ne doit pas contenir :",
         items: [
             "Pain, chapelure, semoule ou pâtes",
             "Biscuits, cookies, gâteaux, muffins ou tartes",
@@ -54,7 +54,7 @@ const translations = {
             "Sauces, soupes, malt, extrait de malt, bouillon et bière"
         ],
         crossContamination: "Risque de contamination croisée",
-        warning: "Même une petite quantité de gluten peut me rendre très malade...",
+        warning: "Même une petite quantité de gluten peut me rendre très malade. Il est crucial que ma nourriture ne soit pas en contact avec du gluten ou des surfaces contaminées.",
         safeFoods: "Aliments sans risque",
         safeItems: [
             "Viande, poisson, œufs",
@@ -75,7 +75,7 @@ const translations = {
             "Salse, zuppe, malto, estratto di malto, brodo e birra"
         ],
         crossContamination: "Rischio di contaminazione crociata",
-        warning: "Anche una piccola quantità di glutine può farmi stare molto male...",
+        warning: "Anche una piccola quantità di glutine può farmi stare molto male. È fondamentale che il mio cibo non entri in contatto con il glutine o superfici contaminate.",
         safeFoods: "Alimenti sicuri",
         safeItems: [
             "Carne, pesce, uova",
@@ -96,7 +96,7 @@ const translations = {
             "Salsas, sopas, malta, extracto de malta, caldo y cerveza"
         ],
         crossContamination: "Riesgo de contaminación cruzada",
-        warning: "Incluso una pequeña cantidad de gluten puede hacerme caer muy enfermo...",
+        warning: "Incluso una pequeña cantidad de gluten puede hacerme sentir muy mal. Es crucial que mi comida no entre en contacto con gluten o superficies contaminadas.",
         safeFoods: "Alimentos seguros",
         safeItems: [
             "Carne, pescado, huevos",
@@ -117,7 +117,7 @@ const translations = {
             "Soßen, Suppen, Malz, Malzextrakt, Brühe und Bier"
         ],
         crossContamination: "Kreuzkontaminationsrisiko",
-        warning: "Selbst eine kleine Menge Gluten kann mich sehr krank machen...",
+        warning: "Schon eine kleine Menge Gluten kann mich sehr krank machen. Es ist entscheidend, dass mein Essen nicht mit Gluten oder kontaminierten Oberflächen in Kontakt kommt.",
         safeFoods: "Sichere Lebensmittel",
         safeItems: [
             "Fleisch, Fisch, Eier",
@@ -138,7 +138,7 @@ const translations = {
             "Sausen, soepen, mout, moutextract, bouillon en bier"
         ],
         crossContamination: "Kruisbesmettingsrisico",
-        warning: "Zelfs een kleine hoeveelheid gluten kan me erg ziek maken...",
+        warning: "Zelfs een kleine hoeveelheid gluten kan me erg ziek maken. Het is cruciaal dat mijn eten niet in contact komt met gluten of besmette oppervlakken.",
         safeFoods: "Veilige voedingsmiddelen",
         safeItems: [
             "Vlees, vis, eieren",
@@ -159,7 +159,7 @@ const translations = {
             "Sosy, zupy, słód, ekstrakt słodowy, bulion i piwo"
         ],
         crossContamination: "Ryzyko zanieczyszczenia krzyżowego",
-        warning: "Nawet niewielka ilość glutenu może mnie bardzo rozchorować...",
+        warning: "Nawet niewielka ilość glutenu może sprawić, że bardzo źle się poczuję. Ważne jest, aby moje jedzenie nie miało kontaktu z glutenem ani skażonymi powierzchniami.",
         safeFoods: "Bezpieczne produkty",
         safeItems: [
             "Mięso, ryby, jajka",
