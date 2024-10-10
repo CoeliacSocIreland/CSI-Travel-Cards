@@ -46,7 +46,7 @@ const translations = {
     fr: {
         title: "Avis important",
         intro: "Je suis atteint(e) de la maladie cœliaque (intolérance au gluten).",
-        cannotEat: "Je ne peux pas manger d’aliments contenant du gluten...",
+        cannotEat: "Je ne peux pas manger d’aliments qui contiennent du gluten...",
         items: [
             "Pain, chapelure, semoule ou pâtes",
             "Biscuits, cookies, gâteaux, muffins ou tartes",
@@ -96,7 +96,7 @@ const translations = {
             "Salsas, sopas, malta, extracto de malta, caldo y cerveza"
         ],
         crossContamination: "Riesgo de contaminación cruzada",
-        warning: "Incluso una pequeña cantidad de gluten puede hacerme muy enfermo...",
+        warning: "Incluso una pequeña cantidad de gluten puede hacerme caer muy enfermo...",
         safeFoods: "Alimentos seguros",
         safeItems: [
             "Carne, pescado, huevos",
