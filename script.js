@@ -616,19 +616,22 @@ const translations = {
 function displayCard(language) {
     const card = translations[language]; // Get the translation for the selected language
     const cardContent = `
-        <h3>${card.title}</h3>
-        <p>${card.intro}</p>
-        <p>${card.cannotEat}</p>
-        <ul>
-            ${card.items.map(item => `<li>${item}</li>`).join('')}
-        </ul>
-        <h3>${card.crossContamination}</h3>
-        <p>${card.warning}</p>
-        <h3>${card.safeFoods}</h3>
-        <ul>
-            ${card.safeItems.map(item => `<li>${item}</li>`).join('')}
-        </ul>
-        <p><em>${card.closing}</em></p>
+        <div class="card-content">
+            <img src="CSILogo.png" alt="Coeliac Society Logo" class="card-logo">
+            <h3>${card.title}</h3>
+            <p>${card.intro}</p>
+            <p>${card.cannotEat}</p>
+            <ul>
+                ${card.items.map(item => `<li>${item}</li>`).join('')}
+            </ul>
+            <h3>${card.crossContamination}</h3>
+            <p>${card.warning}</p>
+            <h3>${card.safeFoods}</h3>
+            <ul>
+                ${card.safeItems.map(item => `<li>${item}</li>`).join('')}
+            </ul>
+            <p><em>${card.closing}</em></p>
+        </div>
     `;
     cardDisplay.innerHTML = cardContent;  // Inject the generated HTML into the display area
     cardDisplay.style.display = 'block';  // Show the card
