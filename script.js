@@ -319,15 +319,15 @@ const translations = {
     mt: {
         title: "Avviż Importanti",
         intro: "Għandi mard ċelijaku (intolleranza għall-glutina).",
-        cannotEat: "Ma nistax niekol ikel li jkun fih glutina, li tinsab fix-xaħar, ir-raġnu, il-borġ u l-ħafur. L-ikel tiegħi m’għandux ikun fih:",
+        cannotEat: "Ma nistax niekol ikel li jkun fih glutina, li tinsab qamh xgħir, rye u l-ħafur. L-ikel tiegħi m’għandux ikun fih:",
         items: [
             "Ħobż, frak tal-ħobż, semolina jew għaġin",
-            "Cookies, kejkijiet, muffins jew tarti",
+            "Gallentini, kejkijiet, muffins jew torti",
             "Dqiq, diversi zalzett u prodotti tal-għaġina",
-            "Zalza, soppa, malt, estratt tal-malt, brodu u birra"
+            "Zalza, sopop, malt, estratt tal-malt, stokk u birra"
         ],
         crossContamination: "Riskju ta' kontaminazzjoni trasversali",
-        warning: "Anke ammont żgħir ta' glutina jista' jagħmilli morda ħafna. Huwa kruċjali li l-ikel tiegħi ma jkollux kuntatt mal-glutina jew mal-wiċċijiet kontaminati.",
+        warning: "Anke ammont żgħir ta' glutina jista' jagħmilli morda ħafna. Huwa kruċjali li l-ikel tiegħi ma jkollux kuntatt mal-glutina jew mal ucuh kontaminati.",
         safeFoods: "Ikel Sikur",
         safeItems: [
             "Laħam, ħut, bajd",
