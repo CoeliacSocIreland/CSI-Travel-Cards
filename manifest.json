@@ -1,7 +1,7 @@
 {
-    "name": "Eating Out Card",
-    "short_name": "Eating Out",
-    "description": "A simple web app to show an eating-out card in various languages.",
+    "name": "Travel Eating-Out Card",
+    "short_name": "Travel Cards",
+    "description": "A simple web app to show an Travel Eating-out card in various languages.",
     "icons": [
       {
         "src": "icon-192.png",
