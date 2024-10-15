@@ -128,17 +128,17 @@ const translations = {
         closing: "Vielen Dank für die Zubereitung einer Mahlzeit, die ich sicher essen kann!"
     },
     nl: {
-        title: "Belangrijke Mededeling",
+        title: "Belangrijke mededeling",
         intro: "Ik heb coeliakie (glutenintolerantie).",
-        cannotEat: "Ik mag geen voedsel eten dat gluten bevat, zoals in tarwe, rogge, gerst en haver. Mijn maaltijd mag het volgende niet bevatten:",
+        cannotEat: "Ik mag geen voedsel eten waar gluten in zit, zoals tarwe, rogge, gerst en haver. Mijn maaltijd mag het volgende niet bevatten:",
         items: [
             "Brood, paneermeel, griesmeel of pasta",
             "Koekjes, cakes, muffins of taarten",
             "Meel, verschillende worsten en deegproducten",
-            "Sausen, soepen, mout, moutextract, bouillon en bier"
+            "Sauzen, soepen, mout, moutextract, bouillon en bier"
         ],
         crossContamination: "Kruisbesmettingsrisico",
-        warning: "Zelfs een kleine hoeveelheid gluten kan me erg ziek maken. Het is cruciaal dat mijn eten niet in contact komt met gluten of besmette oppervlakken.",
+        warning: "Zelfs een kleine hoeveelheid gluten kan me erg ziek maken. Het is hell belangrijk dat mijn eten niet in contact komt met gluten of besmette oppervlakken.",
         safeFoods: "Veilige voedingsmiddelen",
         safeItems: [
             "Vlees, vis, eieren",
@@ -146,7 +146,7 @@ const translations = {
             "Rijst, maïs, soja, aardappelen",
             "Wijn, kaas, melk"
         ],
-        closing: "Hartelijk dank voor het bereiden van een maaltijd die ik veilig kan eten!"
+        closing: "Hartelijk dank voor het bereiden van een veilig glutenvrije maaltijd!"
     },
     pl: {
         title: "Ważna informacja",
