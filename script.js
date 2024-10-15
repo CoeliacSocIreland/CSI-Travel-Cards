@@ -297,8 +297,8 @@ const translations = {
     },
     pt: {
         title: "Aviso Importante",
-        intro: "Tenho doença celíaca (intolerância ao glúten).",
-        cannotEat: "Não posso comer alimentos que contenham glúten, encontrado no trigo, centeio, cevada e aveia. A minha refeição não deve conter:",
+        intro: "Tenho doença celíaca (não posso consumir glúten).",
+        cannotEat: "Por razões de saúde não posso comer alimentos que contenham glúten. O glúten é encontrado no trigo, centeio, cevada e também pode ser encontrado na aveia por contaminação. A minha refeição não deve conter:",
         items: [
             "Pão, pão ralado, sêmola ou massa",
             "Biscoitos, bolos, muffins ou tartes",
@@ -306,7 +306,7 @@ const translations = {
             "Molhos, sopas, malte, extrato de malte, caldo e cerveja"
         ],
         crossContamination: "Risco de contaminação cruzada",
-        warning: "Mesmo uma pequena quantidade de glúten pode deixar-me muito doente. É crucial que a minha comida não entre em contacto com glúten ou superfícies contaminadas.",
+        warning: "Mesmo uma pequena quantidade de glúten pode deixar-me muito doente. É crucial que a minha comida não entre em contacto com glúten nem com superfícies contaminadas com glúten.",
         safeFoods: "Alimentos seguros",
         safeItems: [
             "Carne, peixe, ovos",
