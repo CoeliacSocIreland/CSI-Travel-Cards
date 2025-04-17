@@ -464,25 +464,25 @@ const translations = {
         closing: "Mange tak for at tilberede et måltid, jeg kan spise sikkert!"
     },
     hu: {
-        title: "Fontos kérésem van",
-        intro: "Cöliákiás (gluténérzékeny) vagyok.",
-        cannotEat: "Ezért nem fogyaszthatok olyan ételeket, amiben van búza, rozs, árpa vagy zab. Ilyen ételek például:",
+        title: "Fontos Értesítés",
+        intro: "Lisztérzékeny vagyok (glutén intolerancia).",
+        cannotEat: "Nem fogyaszthatok glutént tartalmazó ételeket, amelyek búzában, rozsban, árpában és zabban találhatók. Az ételem nem tartalmazhatja:",
         items: [
-            "Kenyerek, tészták, lisztek, péksütemények, zsemlemorzsa, dara",
-            "Kekszek, sütemények, torták, muffinok, piték",
-            "Felvágottak, pástétomok, panírozott ételek",
-            "Szószok, levesek (rántva/habarva), leveskockák, sörök"
+            "Kenyér, zsemlemorzsa, dara vagy tészta",
+            "Kekszek, sütemények, muffinok vagy piték",
+            "Liszt, különféle kolbászok és tésztatermékek",
+            "Szószok, levesek, maláta, malátakivonat, húsleves és sör"
         ],
-        crossContamination: "Keresztszennyeződés kockázata",
-        warning: "Mivel egy kis mennyiségű glutén is tüneteket okozhat, kérem, ügyeljenek arra, hogy az ételembe nem kerüljön glutén más ételből, vagy munkafelületről, eszközökből.",
+        crossContamination: "Keresztszennyezés kockázata",
+        warning: "Még egy kis mennyiségű glutén is súlyosan megbetegíthet. Lényeges, hogy az ételem ne kerüljön kapcsolatba gluténnel vagy szennyezett felületekkel.",
         safeFoods: "Biztonságos ételek",
         safeItems: [
-            "Húsok, halak, tojás (natúr)",
-            "Gyümölcsök, zöldségek, saláták, hüvelyesek",
-            "Rizs, kukorica, burgonya, szója",
-            "Bor, tej, sajt"
+            "Hús, hal, tojás",
+            "Gyümölcsök, zöldségek, hüvelyesek",
+            "Rizs, kukorica, szója, burgonya",
+            "Bor, sajt, tej"
         ],
-        closing: "Nagyon szépen köszönöm, hogy kérésemet figyelemebe véve készítik el az ételemet!"
+        closing: "Nagyon köszönöm, hogy elkészítette a biztonságosan fogyasztható ételt!"
     },
     ro: {
         title: "Atenție Importantă",
