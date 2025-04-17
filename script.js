@@ -294,7 +294,7 @@ const translations = {
             "Viiniä, juustoa, maitoa"
         ],
         closing: "Kiitos paljon, että valmistit aterian, jota voin turvallisesti syödä!"
-    }
+    },
     el: {
         title: "Σημαντική Ειδοποίηση",
         intro: "Πάσχω από κοιλιοκάκη (δυσανεξία στη γλουτένη).",
@@ -315,7 +315,7 @@ const translations = {
             "Κρασί, τυρί, γάλα"
         ],
         closing: "Σας ευχαριστώ πολύ για την προετοιμασία ενός γεύματος που μπορώ να καταναλώσω με ασφάλεια!"
-    }
+    },
     pt: {
         title: "Aviso Importante",
         intro: "Tenho doença celíaca (não posso consumir glúten).",
